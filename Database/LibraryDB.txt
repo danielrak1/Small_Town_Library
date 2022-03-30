@@ -1,0 +1,12 @@
+# PROGRESS RESULTS Deployed APPLICATION FileList
+# This reports does NOT provide Public QUERY Directory Information
+
+
+baseResourceFile= aderes/results.l
+configurationFile:ascii= C:\Workspace\LibraryDB.qc7
+configurationFileAltSrc:featureFile= C:\Workspace\LibraryDBf.p
+configurationFileAltSrc:menuFile= C:\Workspace\LibraryDBmt.p
+database:1= LibraryDB
+integrationPointSrc:direct= aderes/u-direct.p
+integrationPointSrc:login= aderes/_slogin.p
+integrationPointSrc:logo= aderes/u-logo.p
