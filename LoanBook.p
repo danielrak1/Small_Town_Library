@@ -19,7 +19,7 @@ DO WHILE vlAns:
                         ASSIGN Loan.LoanId.  
                     END.
                     UPDATE Loan WITH 1 COLUMNS.
-                    MESSAGE "DO You Want To add another book loan(Yes/No)" VIEW-AS ALERT-BOX QUESTION BUTTONS YES-NO SET vlAns.
+                    
                 END.
             END.
         WHEN 2 THEN
